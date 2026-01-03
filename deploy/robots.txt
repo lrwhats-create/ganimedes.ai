@@ -1,0 +1,9 @@
+# Robots.txt for ganimedes.ai
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://ganimedes.ai/sitemap.xml
+
+# Crawl-delay (optional, be nice to servers)
+Crawl-delay: 1
